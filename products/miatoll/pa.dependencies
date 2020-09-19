@@ -14,7 +14,7 @@
     {
         "remote":       "blobs",
         "repository":   "proprietary_vendor_xiaomi",
-        "target_path":  "vendor/xiaomi",
+        "target_path":  "vendor/xiaomi/miatoll",
         "revision":     "quartz"
     },
     {
@@ -59,4 +59,16 @@
         "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
         "revision":     "quartz"
     },
+    {
+        "remote":       "Lokesh773",
+        "repository":   "Lokesh773/vendor_aeonax_ANXCamera",
+        "target_path":  "vendor/aeonax/ANXCamera",
+        "revision":     "quartz"
+    },
+    {
+    "remote": "github",
+    "repository": "Havoc-OS/android_packages_apps_Dirac",
+    "target_path": "packages/apps/Dirac",
+    "branch": "ten"
+  }
 ]
